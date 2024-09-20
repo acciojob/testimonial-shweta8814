@@ -15,8 +15,8 @@ body {
     background-color: #ffffff;
     padding: 20px;
     margin-bottom: 15px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
+    border: 1px solid;
+    
 }
 .testimonial-text {
     font-size: 16px;
